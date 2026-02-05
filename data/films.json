@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Интерстеллар",
+    "genre": ["фантастика", "драма"],
+    "duration": 169,
+    "isPremiere": false,
+    "releaseDate": "2014-10-26",
+    "rating": 8.6
+  },
+  {
+    "id": 2,
+    "title": "Криминальное чтиво",
+    "genre": ["криминал", "драма", "комедия"],
+    "duration": 154,
+    "isPremiere": false,
+    "releaseDate": "1994-05-21",
+    "rating": 8.9
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "name": "lr9re",
+  "version": "1.0.0",
+  "description": "веб-фреймворк для афиши кинотеатра",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": ["framework", "nodejs", "cinema"],
+  "author": "Your Name",
+  "license": "MIT"
+}
