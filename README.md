@@ -13,3 +13,16 @@
   "releaseDate": string (Date),
   "rating": number
 }
+
+### Сеанс
+```json
+{
+  "id": number,
+  "movieId": number,
+  "hall": number,
+  "dateTime": string (Date),
+  "ticketsAvailable": number,
+  "is3D": boolean,
+  "price": number,
+  "occupiedSeats": Array<number>
+}
