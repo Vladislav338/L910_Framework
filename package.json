@@ -7,6 +7,6 @@
     "start": "node app.js"
   },
   "keywords": ["framework", "nodejs", "cinema"],
-  "author": "Your Name",
+  "author": "ILOVESCRIPTS",
   "license": "MIT"
 }
